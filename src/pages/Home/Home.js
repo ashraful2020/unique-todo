@@ -16,9 +16,7 @@ const Home = () => {
         }]
     return (
         <div className='container'>
-            <p className='fs-1 text-primary text-opacity-50 text-center fw-bold display-1'> Unique Todo Application </p>
-
-            <Navigation />
+             <Navigation />
             <div className='w-50 mx-auto'>
                 <form className="form-floating">
                     <input className="form-control is-valid" id="floatingInputInvalid" placeholder="name@example.com hello " />

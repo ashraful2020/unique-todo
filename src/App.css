@@ -7,3 +7,17 @@
 .App {
   text-align: center;
 }
+a{
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.59);
+}
+.nav-logo {
+  padding: 0px 20px;
+  font-size: 42px;
+  font-weight: 900; 
+  letter-spacing: -2px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background: -webkit-linear-gradient(rgb(183, 0, 0),rgb(163, 163, 255));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
